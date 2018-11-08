@@ -50,9 +50,9 @@ public class UpdateProfile extends AppCompatActivity {
     String getId;
     private Bitmap bitmap;
 
-    private static String URL_READ = "http://192.168.242.1/VolleyApp/read_detail.php";
-    private static String URL_EDIT = "http://192.168.242.1/VolleyApp/edit_detail.php";
-    private static String URL_UPLOAD = "http://192.168.242.1/VolleyApp/upload.php";
+    private static String URL_READ = "http://192.168.43.187/VolleyApp/read_detail.php";
+    private static String URL_EDIT = "http://192.168.43.187/VolleyApp/edit_detail.php";
+    private static String URL_UPLOAD = "http://192.168.43.187/VolleyApp/upload.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

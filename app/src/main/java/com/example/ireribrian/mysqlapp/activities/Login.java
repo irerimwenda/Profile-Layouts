@@ -36,7 +36,7 @@ public class Login extends AppCompatActivity {
 
     SessionManager sessionManager;
 
-    private static String URL_LOGIN = "http://192.168.242.1/VolleyApp/login.php";
+    private static String URL_LOGIN = "http://192.168.43.187/VolleyApp/login.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -35,7 +35,7 @@ public class Register extends AppCompatActivity {
 
     SessionManager sessionManager;
 
-    private static String URL_REGISTER = "http://192.168.242.1/VolleyApp/register.php";
+    private static String URL_REGISTER = "http://192.168.43.187/VolleyApp/register.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
