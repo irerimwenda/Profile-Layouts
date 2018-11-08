@@ -1,4 +1,4 @@
-package com.example.ireribrian.mysqlapp;
+package com.example.ireribrian.mysqlapp.activities;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -17,6 +17,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.example.ireribrian.mysqlapp.R;
+import com.example.ireribrian.mysqlapp.session.SessionManager;
 
 import org.json.JSONException;
 import org.json.JSONObject;

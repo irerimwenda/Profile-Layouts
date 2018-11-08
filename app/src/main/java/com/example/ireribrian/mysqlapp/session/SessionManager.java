@@ -1,8 +1,11 @@
-package com.example.ireribrian.mysqlapp;
+package com.example.ireribrian.mysqlapp.session;
 
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+
+import com.example.ireribrian.mysqlapp.activities.Home;
+import com.example.ireribrian.mysqlapp.activities.Login;
 
 import java.util.HashMap;
 

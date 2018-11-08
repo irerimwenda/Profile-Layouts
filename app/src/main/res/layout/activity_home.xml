@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.ireribrian.mysqlapp.Home">
+    tools:context="com.example.ireribrian.mysqlapp.activities.Home">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"

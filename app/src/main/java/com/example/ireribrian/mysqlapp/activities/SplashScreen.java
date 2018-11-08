@@ -1,9 +1,11 @@
-package com.example.ireribrian.mysqlapp;
+package com.example.ireribrian.mysqlapp.activities;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.ireribrian.mysqlapp.R;
 
 public class SplashScreen extends AppCompatActivity {
 

@@ -6,4 +6,8 @@
 
     <color name="cyan_500">#00BCD4</color>
     <color name="purple_500">#9C27B0</color>
+
+    <color name="green">#5bbc59</color>
+    <color name="deep_green">#248e50</color>
+    <color name="light_purple">#bf40ff</color>
 </resources>
