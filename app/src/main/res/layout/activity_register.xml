@@ -33,9 +33,10 @@
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/ic_person_outline"
             android:gravity="center"
-            android:inputType="textPersonName"
             android:hint="Enter Name"
-            android:textColorHint="@android:color/white"/>
+            android:inputType="textPersonName"
+            android:textColor="#fff"
+            android:textColorHint="@android:color/white" />
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.TextInputLayout
@@ -52,6 +53,7 @@
             android:inputType="textEmailAddress"
             android:drawableLeft="@drawable/ic_mail_outline"
             android:gravity="center"
+            android:textColor="#fff"
             android:hint="Enter Email"
             android:textColorHint="@android:color/white"/>
     </android.support.design.widget.TextInputLayout>
@@ -71,6 +73,7 @@
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/ic_lock_outline"
             android:gravity="center"
+            android:textColor="#fff"
             android:inputType="textPassword"
             android:hint="Password"
             android:textColorHint="@android:color/white"/>
@@ -92,6 +95,7 @@
             android:drawableLeft="@drawable/ic_lock_outline"
             android:gravity="center"
             android:inputType="textPassword"
+            android:textColor="#fff"
             android:hint="Confirm Password"
             android:textColorHint="@android:color/white"/>
     </android.support.design.widget.TextInputLayout>
